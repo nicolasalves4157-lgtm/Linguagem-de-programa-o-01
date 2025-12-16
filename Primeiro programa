@@ -1,0 +1,4 @@
+program PrimeiroPrograma;
+begin
+  writeln('Olá, este é meu primeiro programa em Pascal.');
+end.
